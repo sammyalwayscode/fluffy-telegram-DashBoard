@@ -1,0 +1,20 @@
+.MainHeaderDivDash{
+  height: 70px;
+  width: 100%;
+  background-color: #031f4b;
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+  align-items: center;
+}
+
+.SubHeaderdivDash{
+  width: 1100px;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+
+.DashLogoDiv{
+  width: 100px;
+}
